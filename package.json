@@ -1,0 +1,21 @@
+{
+  "name": "angularJS-node-materialize",
+  "version": "1.1.1",
+  "description": "A Materialize wrapper for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "undefined"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/icarslan/angularJS-node-materialize"
+  },
+  "author": "Jeffrey van Hoven <jeffreyvanhoven@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://github.com/icarslan/angularJS-node-materialize",
+  "dependencies": {
+    "hammerjs": "^2.0.4",
+    "jquery": "^2.1.4",
+    "pickadate": "^3.5.6"
+  }
+}
